@@ -1,0 +1,4 @@
+0 - facing -Y
+1 - facing +X
+2 - facing +Y
+3 - facing -X
